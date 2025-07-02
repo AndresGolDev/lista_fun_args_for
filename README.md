@@ -13,4 +13,4 @@
     * **Bucles `for`:** Para iterar sobre los productos.
     * **Condicionales (`if`/`else`):** Para aplicar la lógica de descuento.
 - !["Aqui tenemos el ejemplo del resultado cuando se ejecuta el programa:"](resultado_programa.png)
-- Aqui vemos claramente el resultado cuando ejecutamos el programa
+- * **Autor: @AndresGolDev** - [**Github link:**]([https://github.com/tu-usuario](https://github.com/AndresGolDev)
